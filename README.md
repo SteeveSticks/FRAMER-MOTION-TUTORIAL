@@ -40,7 +40,7 @@ project-root/
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/framer-motion-tutorial.git
+git clone https://github.com/SteeveSticks/FRAMER-MOTION-TUTORIAL.git
 cd framer-motion-tutorial
 ```
 
